@@ -1,5 +1,5 @@
 <table><tr>
-<td><img src="assets/portrait_compact.svg" height="300"></td>
+<td><img src="profile-img.svg" height="300"></td>
 <td>
 
 ## Hi there 👋
