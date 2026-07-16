@@ -1,95 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1129 940" width="1129" height="940" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 862 640" width="862" height="640" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">
 <rect width="100%" height="100%" fill="#0d1117"/>
-<text x="20" y="32" fill="#f8f8f2" xml:space="preserve">            `</text>
-<text x="20" y="44" fill="#f8f8f2" xml:space="preserve">            ^</text>
-<text x="20" y="56" fill="#f8f8f2" xml:space="preserve">           ;;</text>
-<text x="20" y="68" fill="#f8f8f2" xml:space="preserve">          .&lt;</text>
-<text x="20" y="80" fill="#f8f8f2" xml:space="preserve">          ;|</text>
-<text x="20" y="92" fill="#f8f8f2" xml:space="preserve">          ,\</text>
-<text x="20" y="104" fill="#f8f8f2" xml:space="preserve">           )_  `</text>
-<text x="20" y="116" fill="#f8f8f2" xml:space="preserve">           `&gt;'  ,`</text>
-<text x="20" y="128" fill="#f8f8f2" xml:space="preserve">            `\,-`\</text>
-<text x="20" y="140" fill="#f8f8f2" xml:space="preserve">             .v^,)^</text>
-<text x="20" y="152" fill="#f8f8f2" xml:space="preserve">              %.)l,</text>
-<text x="20" y="164" fill="#f8f8f2" xml:space="preserve">            _)+ )}</text>
-<text x="20" y="176" fill="#f8f8f2" xml:space="preserve">    `-.  `,//_`+l|</text>
-<text x="20" y="188" fill="#f8f8f2" xml:space="preserve">  +|^;==//^':+"'i_</text>
-<text x="20" y="200" fill="#f8f8f2" xml:space="preserve"> &gt;+    +&gt;==+^,'&gt;=</text>
-<text x="20" y="212" fill="#f8f8f2" xml:space="preserve">-l     .:;,',&lt;&lt;:              '.    ;")/^'</text>
-<text x="20" y="224" fill="#f8f8f2" xml:space="preserve"> );  .':,-,|v"               '+il]#VVqd4Egqfjtj#La[!%'</text>
-<text x="20" y="236" fill="#f8f8f2" xml:space="preserve"> ."+=^/\,;%%                ^3g7pNNOKNMWKUXfwSkWQ0RMWG#%+`</text>
-<text x="20" y="248" fill="#f8f8f2" xml:space="preserve">    .;&gt;_ &gt;)`               )AN#hB0HQQ0MNNWKZpax{w8N0W$GSEPqT!v=`</text>
-<text x="20" y="260" fill="#f8f8f2" xml:space="preserve">    =\.-\^                vhM8&amp;0DQQQQ00QQRNWKVnxv12kKWBHHBQQQQW&amp;Xy*^</text>
-<text x="20" y="272" fill="#f8f8f2" xml:space="preserve">   ;&gt;  l| .-`           ,-vzG$D00QQQQQQQQQQQD@B$bXkDNNN0Q0BYOQQQQQQAu\</text>
-<text x="20" y="284" fill="#f8f8f2" xml:space="preserve">   +\` sx&gt;/^^"+         .^IV$$ARQNQQRUbPhE8MBGy77nwn4W0MQMAfaCmG&amp;UHM08y;</text>
-<text x="20" y="296" fill="#f8f8f2" xml:space="preserve">    ;v._&gt;%)/ sI_        _JHQQ0Qg%"s?),    _{44Wgp3gkX&amp;H8ZUOSpdXdntC7w4PG]-</text>
-<text x="20" y="308" fill="#f8f8f2" xml:space="preserve">     ,|+&lt;)|+,l\_        iA&amp;QQQ#             x4@kRQNNQQQQKkg7[zYDK44WHKbD05=</text>
-<text x="20" y="320" fill="#f8f8f2" xml:space="preserve">       _;x\;|+,;/;      |LGKQF              -bqXKDMQQRNNMQQB&amp;YKR0QQQQQQQQ@J.</text>
-<text x="20" y="332" fill="#f8f8f2" xml:space="preserve">          _;="\^."/     ./IhK,              +J!EQO#dKWNN000QQQ00QQQQQQQQQQp.</text>
-<text x="20" y="344" fill="#f8f8f2" xml:space="preserve">             .;l"-v-     . v1         .````.vc ^eOjxzEBQQ0R00QQQQQQQQQQQQQo:</text>
-<text x="20" y="356" fill="#f8f8f2" xml:space="preserve">               &lt;!^i_      /AG4hn+  .)uFp3f#zI{&lt;^ /7})+%pRQQQQQQQQQQQQQQQQMv</text>
-<text x="20" y="368" fill="#f8f8f2" xml:space="preserve">               &gt;s||       _w!*amAa  ^\|&gt;**{x\+;'-  '`  .XQQQQQQQQQQQQQQQMa_</text>
-<text x="20" y="380" fill="#f8f8f2" xml:space="preserve">              /x%+         ^4Cqm5#    `{7ah5e[r/        hQQQQQQN$$BQQQQR}</text>
-<text x="20" y="392" fill="#f8f8f2" xml:space="preserve">             -r%]&gt;         ^I,,|)`      _,`            -YQQQNpa[[ozpQQRt</text>
-<text x="20" y="404" fill="#f8f8f2" xml:space="preserve">              -)x&gt;i;`      i, -\-                   .  :bQWC)_no'+l!QQt</text>
-<text x="20" y="416" fill="#f8f8f2" xml:space="preserve">                _+is&lt;",    &gt;+^&gt;       `            ``. ,5p\ /f&lt;&gt;.;}URt</text>
-<text x="20" y="428" fill="#f8f8f2" xml:space="preserve">                   ,r{/    ,c,ny1ja!v++                '^  -n!-+c3NR}</text>
-<text x="20" y="440" fill="#f8f8f2" xml:space="preserve">                   ;a"      {'%51*` _`                    *s/vnPWQQa</text>
-<text x="20" y="452" fill="#f8f8f2" xml:space="preserve">                   .vl^     ;%.e1&lt;|\&gt;)=^`                &gt;TCFFCQQQh`</text>
-<text x="20" y="464" fill="#f8f8f2" xml:space="preserve">                     )*     `lvJ3T%\\)xl^              .)^    )NRg:</text>
-<text x="20" y="476" fill="#f8f8f2" xml:space="preserve">                     %s``=vxiv}!4oT[-              -'/r!+    `+Y&amp;7?r?=</text>
-<text x="20" y="488" fill="#f8f8f2" xml:space="preserve">                     `vjF7I);`'5l .`           ./ljSPq}_  .:/%l}{&gt;=_)e</text>
-<text x="20" y="500" fill="#f8f8f2" xml:space="preserve">                       +&lt;'     x[=`       '){jmkNQDp%  _")v)|='      n)</text>
-<text x="20" y="512" fill="#f8f8f2" xml:space="preserve">                                cLunujotpZ$MQQQQPo/  ^c%);- .      ,=cf</text>
-<text x="20" y="524" fill="#f8f8f2" xml:space="preserve">                                  .__-:&gt;gQQQQ@y)   `x?x_   "=    .&gt;7iljl`</text>
-<text x="20" y="536" fill="#f8f8f2" xml:space="preserve">                                   `&gt;LXNQQQXt;    +}Iy^  /?/  `)IoI&gt;;  L?</text>
-<text x="20" y="548" fill="#f8f8f2" xml:space="preserve">                               ._|tgNQQQQQRg+ _=&gt;r}|4] _[o,  .");. `;&lt;&gt;cJr|</text>
-<text x="20" y="560" fill="#f8f8f2" xml:space="preserve">                            _+&lt;rJkQQQQQQQQREC tqwx,wz :2[  `',:_:=%)\=_  +tn)`</text>
-<text x="20" y="572" fill="#f8f8f2" xml:space="preserve">                         `)&gt;&lt;=|JY0QQQQQQQQQF+`z[.:u[ ,yx  _:;^^,`'^',/^,`  ^r[*"</text>
-<text x="20" y="584" fill="#f8f8f2" xml:space="preserve">                         _t=.   _)XQQQQQQQQZ ^tF44x "E% `,+^:` .//`  .'=/+:   +{1r;</text>
-<text x="20" y="596" fill="#f8f8f2" xml:space="preserve">                          _{|_-   &gt;WQQRQQAn!'?;qY+`.^r\&lt;);`   ;)'       ._^+='  .\![).</text>
-<text x="20" y="608" fill="#f8f8f2" xml:space="preserve">                            s)`- '/3gTUQQ&amp;XOD3 ]='[|{I/.    -|+             _+/'`  ,rer_</text>
-<text x="20" y="620" fill="#f8f8f2" xml:space="preserve">                           ._l%^,+x--mQQQ0NKA*|v,/tm!_     ;|-                :/;'.  `%or`</text>
-<text x="20" y="632" fill="#f8f8f2" xml:space="preserve">                         '{||^,. ,)_4QQQ&amp;&gt;/^;|\)obq)     `"^ -      :_         '|;:`.  +?j&gt;</text>
-<text x="20" y="644" fill="#f8f8f2" xml:space="preserve">                         '3-`.JC.`,dQQQQa`1X5?1dG1      _+_ _)    'v/.      `_,=i)||"//"&lt;sjt_</text>
-<text x="20" y="656" fill="#f8f8f2" xml:space="preserve">                        .Ln^_ |+ /4QQQQ@%?{v-.vs^      ',  _%:   /I,     .`-,=|x1+    .&lt;v)%aC/</text>
-<text x="20" y="668" fill="#f8f8f2" xml:space="preserve">                        7lxv_    FQQQQQJ;'   '=`       `  .&lt;x   =j^    ._,&lt;|-  '`       &lt;,.,%p\</text>
-<text x="20" y="680" fill="#f8f8f2" xml:space="preserve">                       vL^?s_.  zQQQQQR\-   /=            'c^   ux_  .-')r=             .\__^)q/</text>
-<text x="20" y="692" fill="#f8f8f2" xml:space="preserve">                      `f&lt;l }`` rRQQQQQE`- _v=             ;c   iL+` ``/r/                 : &gt;;/3,</text>
-<text x="20" y="704" fill="#f8f8f2" xml:space="preserve">                      sLs`+m'`+KQQQQQQ?' +l,              ;|   5c;``'ss-     `'             `!:\y_</text>
-<text x="20" y="716" fill="#f8f8f2" xml:space="preserve">                      2z'`nX]+gQQQQQQ8''\%`               '.  iE^'."L%      /%=              )n=*T</text>
-<text x="20" y="728" fill="#f8f8f2" xml:space="preserve">                     )k" %/L52QQQQQQQa`)"                -;   2J. %2)    .^\%)                ][:#{</text>
-<text x="20" y="740" fill="#f8f8f2" xml:space="preserve">                     ua ;) 7$0QQQQQQ&amp;'+'                 +.  -&amp;P|i3^   -+&lt;&gt;%)`                ;[ ?j</text>
-<text x="20" y="752" fill="#f8f8f2" xml:space="preserve">                    +y. l-'3QQQQQQQQL^                  ^:   %HF3n,  '&lt;l%\r{`                  *;}u</text>
-<text x="20" y="764" fill="#f8f8f2" xml:space="preserve">                    J&gt; [g_IkQQQQQQQH+',`               _/    TMDZ, ;v}{%|xv                    +L7j</text>
-<text x="20" y="776" fill="#f8f8f2" xml:space="preserve">                   )J  F1-wWQQQQQQQp _c-_|+;_.......``_%;:'  XQO^,xsx\^;l&gt;                      f8]</text>
-<text x="20" y="788" fill="#f8f8f2" xml:space="preserve">                   y) /r &lt;CQQQQQQQQI.'* r{)&gt;i&gt;&gt;&gt;&gt;&gt;&lt;&lt;\\)&gt;|)rv'WU",)/^;,+!\                       IQc</text>
-<text x="20" y="800" fill="#f8f8f2" xml:space="preserve">                  )C  c` +fQQQQQQQN+_:| *x"               irxB) ',;^,&gt;a+                        |Ri</text>
-<text x="20" y="812" fill="#f8f8f2" xml:space="preserve">                  C&lt; ^&gt;  )KQQQQQQQP.'_, ?xx+.       `-_',+x{Fh ^+^;,st'                         _U)</text>
-<text x="20" y="824" fill="#f8f8f2" xml:space="preserve">                 "f ,r_  fQQQQQQQQu``'``?)o)|/+^:';+/")%v&gt;crTRoiv,^tI.                           di</text>
-<text x="20" y="836" fill="#f8f8f2" xml:space="preserve">                 ns_I}  +ERQQQQQQ0)' + ;*`r;   .`-`. ``   &gt;lsQ0g\\uv                         `   nv</text>
-<text x="20" y="848" fill="#f8f8f2" xml:space="preserve">                 g&gt;xE\) oyQQQQQQQO-' + &gt;% ,x              \?|HQH1n+                          ,;  ri</text>
-<text x="20" y="860" fill="#f8f8f2" xml:space="preserve">                 31yX)7^wjQQQQQQQJ.` . s+  &gt;:             "!;bQBe`                           `i  \t</text>
-<text x="20" y="872" fill="#f8f8f2" xml:space="preserve">                )phBCPx*1fQQQQQQ0i_    *'  `:             )?=$Ul          `__='               l' +y</text>
-<text x="20" y="884" fill="#f8f8f2" xml:space="preserve">               /y^EQ{b*f|gQQQQQQ&amp;_'   _*-                 :?*Qc        ._;+=;+*,              )s.^m</text>
-<text x="20" y="896" fill="#f8f8f2" xml:space="preserve">              ,f/ SU`.&gt;f:PQQQQQQp`- ^.;{_                 /z$Q{     `',^^^,=%s/.              'L,&lt;h</text>
-<text x="20" y="908" fill="#f8f8f2" xml:space="preserve">              z!^l&amp;2  T*;YQQQQQQ1-. &gt; "l.                `&lt;jQQV'.`';^=^^;+r!&gt;`                 #)]q</text>
-<text x="20" y="920" fill="#f8f8f2" xml:space="preserve">              \5'iR* _m/+AQQQQQQ&gt;)/ x +s=-             `+))zQQ0!,^===^^^c7%`                   o?FL</text>
-<text x="760" y="368" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">hernantak</tspan><tspan fill="#f8f8f2">@</tspan><tspan fill="#bd93f9" font-weight="bold">github</tspan></text>
-<text x="760" y="380" fill="#f8f8f2" xml:space="preserve">----------------</text>
-<text x="760" y="392" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">OS</tspan><tspan fill="#f8f8f2">: Human · Indonesia 🇮🇩</tspan></text>
-<text x="760" y="404" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Host</tspan><tspan fill="#f8f8f2">: PT. NTX Solusi Teknologi</tspan></text>
-<text x="760" y="416" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Kernel</tspan><tspan fill="#f8f8f2">: Research and Development</tspan></text>
-<text x="760" y="428" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Uptime</tspan><tspan fill="#f8f8f2">: living, learning, shipping</tspan></text>
-<text x="760" y="440" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Packages</tspan><tspan fill="#f8f8f2">: Go · Python · TypeScript · PostgreSQL</tspan></text>
-<text x="760" y="452" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Shell</tspan><tspan fill="#f8f8f2">: bash · zsh</tspan></text>
-<text x="760" y="464" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Editor</tspan><tspan fill="#f8f8f2">: VS Code · Neovim</tspan></text>
-<text x="760" y="476" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">IDE</tspan><tspan fill="#f8f8f2">: JetBrains suite</tspan></text>
-<text x="760" y="488" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Terminal</tspan><tspan fill="#f8f8f2">: warp · tmux</tspan></text>
-<text x="760" y="500" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">CPU</tspan><tspan fill="#f8f8f2">: ☕ coffee-driven @ 4.20 GHz</tspan></text>
-<text x="760" y="512" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Memory</tspan><tspan fill="#f8f8f2">: always looking for new things to learn</tspan></text>
-<text x="760" y="536" fill="#ff5555" font-weight="bold" xml:space="preserve">Contact</text>
-<text x="760" y="548" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Email</tspan><tspan fill="#f8f8f2">: hernantak@gmail.com</tspan></text>
-<text x="760" y="560" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">LinkedIn</tspan><tspan fill="#f8f8f2">: linkedin.com/in/hernantak</tspan></text>
-<text x="760" y="572" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">GitHub</tspan><tspan fill="#f8f8f2">: github.com/hernantak</tspan></text>
+<text x="20" y="30" fill="#f8f8f2" xml:space="preserve">         ..</text>
+<text x="20" y="40" fill="#f8f8f2" xml:space="preserve">         ,`</text>
+<text x="20" y="50" fill="#f8f8f2" xml:space="preserve">        `/</text>
+<text x="20" y="60" fill="#f8f8f2" xml:space="preserve">        =,</text>
+<text x="20" y="70" fill="#f8f8f2" xml:space="preserve">        =^</text>
+<text x="20" y="80" fill="#f8f8f2" xml:space="preserve">        .)- `.</text>
+<text x="20" y="90" fill="#f8f8f2" xml:space="preserve">         `|' ^-</text>
+<text x="20" y="100" fill="#f8f8f2" xml:space="preserve">          .\^,)</text>
+<text x="20" y="110" fill="#f8f8f2" xml:space="preserve">           &lt;-%)</text>
+<text x="20" y="120" fill="#f8f8f2" xml:space="preserve">        .:/,_}_</text>
+<text x="20" y="130" fill="#f8f8f2" xml:space="preserve"> .;;;,,^=;:^^)</text>
+<text x="20" y="140" fill="#f8f8f2" xml:space="preserve">`\,. `&gt;+^^;,):</text>
+<text x="20" y="150" fill="#f8f8f2" xml:space="preserve">^)   .',::\)_           -   =&gt;vv)":`</text>
+<text x="20" y="160" fill="#f8f8f2" xml:space="preserve">.),-_;='|&gt;;            )![CXbZOAOY6y6PZhm5a|.</text>
+<text x="20" y="170" fill="#f8f8f2" xml:space="preserve">  ':^\`/v-            ?836RWBQ0NW@Ef7zhWQQWPwTtx/_</text>
+<text x="20" y="180" fill="#f8f8f2" xml:space="preserve">   :"`^/.            }$KON0QQQ0Q0RW$m[vzV$DKUD0QM$Xpo&gt;.</text>
+<text x="20" y="190" fill="#f8f8f2" xml:space="preserve">  _&lt; :s -'_        '_*gUHQQQQQQQQQQW&amp;APhX@MRQQNGPNQQQMV}_</text>
+<text x="20" y="200" fill="#f8f8f2" xml:space="preserve">  `),`l%),+v`       c4HDW$gXYquo]zq@G5ejFyYWHN@mC5qmggY8h&gt;</text>
+<text x="20" y="210" fill="#f8f8f2" xml:space="preserve">   .|,/&gt;\:&gt;r`      "bNQQg^ .`      IXH@$UWWRDYXCom$GCSVPPDf'</text>
+<text x="20" y="220" fill="#f8f8f2" xml:space="preserve">     _;v)+|;;^.    /3AQg_          _Zg@W0QQRRRM&amp;PbD0RQQQQQNJ</text>
+<text x="20" y="230" fill="#f8f8f2" xml:space="preserve">        _,^)+_).    "?k)           =a]$@ndBRM00QQQQQQQQQQQQV`</text>
+<text x="20" y="240" fill="#f8f8f2" xml:space="preserve">           -c|"^     |wli_   ^vrlxvl%_+JTlaSNQ0QQQQQQQQQQQQz`</text>
+<text x="20" y="250" fill="#f8f8f2" xml:space="preserve">            v%)_     ]hCFh!.`lt1et?%)=_ //`.sNQQQQQQQQQQQQA&gt;</text>
+<text x="20" y="260" fill="#f8f8f2" xml:space="preserve">           ;xi_       znfFq_   itn3t*)`     ,$QQQQRKKMQQQk+</text>
+<text x="20" y="270" fill="#f8f8f2" xml:space="preserve">           )l};      .r=;&gt;,     _'`         |NQQb7a!ao$QA|</text>
+<text x="20" y="280" fill="#f8f8f2" xml:space="preserve">            +)v);`   _&lt; ;'               .. )@Z*:{7_;rKU)</text>
+<text x="20" y="290" fill="#f8f8f2" xml:space="preserve">              '|%%`  .v=[i&gt;lv;^.         .  =s` L*_/1$k/</text>
+<text x="20" y="300" fill="#f8f8f2" xml:space="preserve">               '[^    \^]21);;`               "ri{yOQK/</text>
+<text x="20" y="310" fill="#f8f8f2" xml:space="preserve">               .&gt;v-   .i+L{\\)\)_            '?eLoYQ0*</text>
+<text x="20" y="320" fill="#f8f8f2" xml:space="preserve">                 I:  ';v{J5[v;=/_          `)/    pMn^^`</text>
+<text x="20" y="330" fill="#f8f8f2" xml:space="preserve">                 \{[!?)+i3)i)          ;xoJo)  .'\13}vvI</text>
+<text x="20" y="340" fill="#f8f8f2" xml:space="preserve">                  /s/`  .1)`.. . `^%t3ZH8y)._/&lt;&gt;)/'    t+</text>
+<text x="20" y="350" fill="#f8f8f2" xml:space="preserve">                         '}1at!*mABQQQXt^ ,x&lt;=_.-    ,)rz</text>
+<text x="20" y="360" fill="#f8f8f2" xml:space="preserve">                             `&gt;z@QQUC\  .)1x. ,\'  ;)!c"l!</text>
+<text x="20" y="370" fill="#f8f8f2" xml:space="preserve">                          .)LGMQQQ&amp;\  '|l*p,.r{_ _&lt;x&gt;;',;Tx:</text>
+<text x="20" y="380" fill="#f8f8f2" xml:space="preserve">                      `;|}6KQQQQQQAT_7wr)3\_nr ._,'-;&lt;&lt;|;-"?!=</text>
+<text x="20" y="390" fill="#f8f8f2" xml:space="preserve">                    ,)|;)#kQQQQQQQU/=u)&gt;j);u\ -,^;'_;;'^;,. +x{v,</text>
+<text x="20" y="400" fill="#f8f8f2" xml:space="preserve">                    'r^.  `7QQQQQWP-\1@5, Lc'+=:` '+'   `:=^' ./r{&lt;-</text>
+<text x="20" y="410" fill="#f8f8f2" xml:space="preserve">                     `%/`  =GYYQ0gC5e=n-)^x)^-  .+^.       `'^^` -&gt;}l,</text>
+<text x="20" y="420" fill="#f8f8f2" xml:space="preserve">                      _%):,);x8QQMD$r\^/jT)    :+-            '+,`  /}s'</text>
+<text x="20" y="430" fill="#f8f8f2" xml:space="preserve">                    =x+;|'`+)KQQh"ivvvoXu:   .^;._    ,'       '/^'_._xa%</text>
+<text x="20" y="440" fill="#f8f8f2" xml:space="preserve">                    *a..uc cHQQ0l%5z&gt;L2i    `;- ":  `i+.    .'^&lt;}|^^^+)%ea:</text>
+<text x="20" y="450" fill="#f8f8f2" xml:space="preserve">                   i]*_.  )DQQQE&lt;/. _/`     _  +i  -?+   .`^^'_/"     )=^cT/</text>
+<text x="20" y="460" fill="#f8f8f2" xml:space="preserve">                  ,z"[^` :bQQQQ!.  ;;         .v^  ?l.  `;v)`         ."`:|C^</text>
+<text x="20" y="470" fill="#f8f8f2" xml:space="preserve">                  [*||). qQQQQ@;..\=          _v  =z^  _&gt;&gt;-             _-&lt;^L'</text>
+<text x="20" y="480" fill="#f8f8f2" xml:space="preserve">                 ,wv f1_zQQQQQw`:v,           `^  L*' /I"    '+.          \l)L`</text>
+<text x="20" y="490" fill="#f8f8f2" xml:space="preserve">                 [C \t3aMQQQQW"+&lt;`            '  ,h;.c7,   -+%^            1c{1</text>
+<text x="20" y="500" fill="#f8f8f2" xml:space="preserve">                .2=_/,EBQQQQQy_^             _,  *A&gt;xz-  '/&lt;x|             ={.w</text>
+<text x="20" y="510" fill="#f8f8f2" xml:space="preserve">                r* r`cKQQQQQN%_             .=   Fgh]  ^vl&gt;l)               s^w.</text>
+<text x="20" y="520" fill="#f8f8f2" xml:space="preserve">               'n.xg'p0QQQQQg`;, .          +_  `&amp;05-/xsi"x|                |J5</text>
+<text x="20" y="530" fill="#f8f8f2" xml:space="preserve">               !x *")gQQQQQQ!.v'i%&gt;&lt;|""""""|v|&lt;"|Qq_\)|;=r+                  Pm</text>
+<text x="20" y="540" fill="#f8f8f2" xml:space="preserve">              'T.,\ )YQQQQQN"`) {)-.``````.   "ctX__;;,\I^                   w2</text>
+<text x="20" y="550" fill="#f8f8f2" xml:space="preserve">              }l &gt;` !0QQQQQG-`, *r)'-`. .`',^/){he`";,xI_                    ]w</text>
+<text x="20" y="560" fill="#f8f8f2" xml:space="preserve">             `n`&gt;) .4QQQQQQn``'_s%%;,,:',;;||+)cwWjx;?r                      &gt;n</text>
+<text x="20" y="570" fill="#f8f8f2" xml:space="preserve">             vz/w+.%dQQQQQ0i`:_+v.%           =rIQQ[t&gt;                    `' :]</text>
+<text x="20" y="580" fill="#f8f8f2" xml:space="preserve">             \fLm{\o5QQQQQO_.. i/ +^          ,*&gt;MQT;                     .\  1.</text>
+<text x="20" y="590" fill="#f8f8f2" xml:space="preserve">             [m@3V)tqQQQQQJ`   x'  '          ;{cWe        _',+`           ), L^</text>
+<text x="20" y="600" fill="#f8f8f2" xml:space="preserve">            ]v?Nc[ziXQQQQQc- `.l-             `*mZ      `';=;"c^           /{.#"</text>
+<text x="20" y="610" fill="#f8f8f2" xml:space="preserve">           l[,nP -#^OQQQQH^`.+-l.             ,7QD| .-,^^^;)rv'            `o^p^</text>
+<text x="20" y="620" fill="#f8f8f2" xml:space="preserve">           )z,gn r1^8QQQQg;/'"-l,.          `=\eQQ3';===^/?{;               z*g.</text>
+<text x="540" y="240" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">hernantak</tspan><tspan fill="#f8f8f2">@</tspan><tspan fill="#bd93f9" font-weight="bold">github</tspan></text>
+<text x="540" y="250" fill="#f8f8f2" xml:space="preserve">----------------</text>
+<text x="540" y="260" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">OS</tspan><tspan fill="#f8f8f2">: Human · Indonesia 🇮🇩</tspan></text>
+<text x="540" y="270" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Host</tspan><tspan fill="#f8f8f2">: PT. NTX Solusi Teknologi</tspan></text>
+<text x="540" y="280" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Kernel</tspan><tspan fill="#f8f8f2">: Research and Development</tspan></text>
+<text x="540" y="290" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Uptime</tspan><tspan fill="#f8f8f2">: living, learning, shipping</tspan></text>
+<text x="540" y="300" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Packages</tspan><tspan fill="#f8f8f2">: Go · Python · TypeScript · PostgreSQL</tspan></text>
+<text x="540" y="310" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Shell</tspan><tspan fill="#f8f8f2">: bash · zsh</tspan></text>
+<text x="540" y="320" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Editor</tspan><tspan fill="#f8f8f2">: VS Code · Neovim</tspan></text>
+<text x="540" y="330" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">IDE</tspan><tspan fill="#f8f8f2">: JetBrains suite</tspan></text>
+<text x="540" y="340" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Terminal</tspan><tspan fill="#f8f8f2">: warp · tmux</tspan></text>
+<text x="540" y="350" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">CPU</tspan><tspan fill="#f8f8f2">: ☕ coffee-driven @ 4.20 GHz</tspan></text>
+<text x="540" y="360" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Memory</tspan><tspan fill="#f8f8f2">: always looking for new things to learn</tspan></text>
+<text x="540" y="380" fill="#ff5555" font-weight="bold" xml:space="preserve">Contact</text>
+<text x="540" y="390" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Email</tspan><tspan fill="#f8f8f2">: hernantak@gmail.com</tspan></text>
+<text x="540" y="400" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">LinkedIn</tspan><tspan fill="#f8f8f2">: linkedin.com/in/hernantak</tspan></text>
+<text x="540" y="410" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">GitHub</tspan><tspan fill="#f8f8f2">: github.com/hernantak</tspan></text>
 </svg>
