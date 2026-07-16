@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./profile-img.svg" width="900" alt="hi">
+  <img src="./profile-img.svg" width="100" alt="hi">
 </p>
