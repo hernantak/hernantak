@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 956 640" width="956" height="640" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1191 640" width="1191" height="640" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
 <rect width="100%" height="100%" fill="#0d1117"/>
 <g font-size="9" fill="#f8f8f2">
 <text x="20" y="30" xml:space="preserve">         ..</text>
@@ -62,23 +62,23 @@
 <text x="20" y="610" xml:space="preserve">           l[,nP -#^OQQQQH^`.+-l.             ,7QD| .-,^^^;)rv'            `o^p^</text>
 <text x="20" y="620" xml:space="preserve">           )z,gn r1^8QQQQg;/'"-l,.          `=\eQQ3';===^/?{;               z*g.</text>
 </g>
-<g font-size="13">
-<text x="540" y="192" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">hernantak</tspan><tspan fill="#f8f8f2">@</tspan><tspan fill="#bd93f9" font-weight="bold">github</tspan></text>
-<text x="540" y="208" fill="#f8f8f2" xml:space="preserve">----------------</text>
-<text x="540" y="224" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">OS</tspan><tspan fill="#f8f8f2">: Human · Indonesia 🇮🇩</tspan></text>
-<text x="540" y="240" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Host</tspan><tspan fill="#f8f8f2">: PT. NTX Solusi Teknologi</tspan></text>
-<text x="540" y="256" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Kernel</tspan><tspan fill="#f8f8f2">: Research and Development</tspan></text>
-<text x="540" y="272" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Uptime</tspan><tspan fill="#f8f8f2">: living, learning, shipping</tspan></text>
-<text x="540" y="288" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Packages</tspan><tspan fill="#f8f8f2">: Go · Python · TypeScript · PostgreSQL</tspan></text>
-<text x="540" y="304" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Shell</tspan><tspan fill="#f8f8f2">: bash · zsh</tspan></text>
+<g font-size="22">
+<text x="540" y="112" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">hernantak</tspan><tspan fill="#f8f8f2">@</tspan><tspan fill="#bd93f9" font-weight="bold">github</tspan></text>
+<text x="540" y="138" fill="#f8f8f2" xml:space="preserve">----------------</text>
+<text x="540" y="164" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">OS</tspan><tspan fill="#f8f8f2">: Human · Indonesia 🇮🇩</tspan></text>
+<text x="540" y="190" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Host</tspan><tspan fill="#f8f8f2">: PT. NTX Solusi Teknologi</tspan></text>
+<text x="540" y="216" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Kernel</tspan><tspan fill="#f8f8f2">: Research and Development</tspan></text>
+<text x="540" y="242" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Uptime</tspan><tspan fill="#f8f8f2">: living, learning, shipping</tspan></text>
+<text x="540" y="268" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Packages</tspan><tspan fill="#f8f8f2">: Go · Python · TypeScript · PostgreSQL</tspan></text>
+<text x="540" y="294" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Shell</tspan><tspan fill="#f8f8f2">: bash · zsh</tspan></text>
 <text x="540" y="320" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Editor</tspan><tspan fill="#f8f8f2">: VS Code · Neovim</tspan></text>
-<text x="540" y="336" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">IDE</tspan><tspan fill="#f8f8f2">: JetBrains suite</tspan></text>
-<text x="540" y="352" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Terminal</tspan><tspan fill="#f8f8f2">: warp · tmux</tspan></text>
-<text x="540" y="368" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">CPU</tspan><tspan fill="#f8f8f2">: ☕ coffee-driven @ 4.20 GHz</tspan></text>
-<text x="540" y="384" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Memory</tspan><tspan fill="#f8f8f2">: always looking for new things to learn</tspan></text>
-<text x="540" y="416" fill="#ff5555" font-weight="bold" xml:space="preserve">Contact</text>
-<text x="540" y="432" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Email</tspan><tspan fill="#f8f8f2">: hernantak@gmail.com</tspan></text>
-<text x="540" y="448" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">LinkedIn</tspan><tspan fill="#f8f8f2">: linkedin.com/in/hernantak</tspan></text>
-<text x="540" y="464" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">GitHub</tspan><tspan fill="#f8f8f2">: github.com/hernantak</tspan></text>
+<text x="540" y="346" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">IDE</tspan><tspan fill="#f8f8f2">: JetBrains suite</tspan></text>
+<text x="540" y="372" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Terminal</tspan><tspan fill="#f8f8f2">: warp · tmux</tspan></text>
+<text x="540" y="398" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">CPU</tspan><tspan fill="#f8f8f2">: ☕ coffee-driven @ 4.20 GHz</tspan></text>
+<text x="540" y="424" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Memory</tspan><tspan fill="#f8f8f2">: always looking for new things to learn</tspan></text>
+<text x="540" y="476" fill="#ff5555" font-weight="bold" xml:space="preserve">Contact</text>
+<text x="540" y="502" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">Email</tspan><tspan fill="#f8f8f2">: hernantak@gmail.com</tspan></text>
+<text x="540" y="528" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">LinkedIn</tspan><tspan fill="#f8f8f2">: linkedin.com/in/hernantak</tspan></text>
+<text x="540" y="554" xml:space="preserve"><tspan fill="#ff5555" font-weight="bold">GitHub</tspan><tspan fill="#f8f8f2">: github.com/hernantak</tspan></text>
 </g>
 </svg>
