@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![portrait](profile-img.svg)
+
 <!--
 **hernantak/hernantak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
